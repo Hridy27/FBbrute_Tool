@@ -1,5 +1,5 @@
 # FBbrute_Tool
-[README.md](https://github.com/user-attachments/files/27839121/README.md)
+[README.md](https://github.com/user-attachments/files/27839160/README.md)
 <h2 align="center">FB BRUTE FORCE TOOL</h2>
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=FB%20BRUTE&fontSize=90&animation=fadeIn&fontAlignY=38&desc=FACEBOOK%20BRUTEFORCE%20TOOLS%20FOR%20TERMUX%20OR%20LINUX%20USERS&descAlignY=51&descAlign=62" width="100%"/>
 </p>
@@ -48,7 +48,7 @@ pkg install git
 pkg install python
 pip install requests
 rm -rf FB-BRUTE
-git clone --depth=1 https://github.com/Hridy186/FBbrute_Tool.git
+git clone --depth=1 https://github.com/Hridy27/FBbrute_Tool.git
 cd FB-BRUTE
 chmod +x *
 python3 FB.py   OR   python FB2.py
@@ -61,7 +61,7 @@ python3 FB.py   OR   python FB2.py
 
 ## Run commands one by one
 ```python
->> git clone https://github.com/Hridy186/FBbrute_Tool.git
+>> git clone https://github.com/Hridy27/FBbrute_Tool.git
 >> cd FB-BRUTE
 >> python3 -m pip install requests bs4
 >> python3 -m pip install mechanize
